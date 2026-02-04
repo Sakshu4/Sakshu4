@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sakshi+Pawar!;" />
 </h1>
 
-<h3 align="center">🚀 Software Developer | Full-Stack Enthusiast | Women in Tech Advocate 🚀</h3>
+<h3 align="center">🚀 Software Developer | Full-Stack Enthusiast | Women in Tech 🚀</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/Focus-Java%20Backend%20%26%20Full--Stack-blueviolet?style=for-the-badge" />
